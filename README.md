@@ -13,6 +13,8 @@ Ele consiste em uma página que permite ao usuário escrever um texto que pode s
 curtido, descurtido e comentado - esses comentários também podem ser avaliados. 
 Há integrações com APIs externas, por meio da lib Axios.
 
+A estética foi pensada por mim para remeter à uma loja de antiquários. 
+
 ## Instruções para rodar
 Por ser um projeto com ReactJS, há a necessidade do NodeJS. Com ele em 
 sua máquina, basta abrir o terminal e navegar até o repositório clonado e 
