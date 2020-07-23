@@ -6,8 +6,8 @@ Esse é um projeto de Frontend Web feito utilizando ReactJS, HTML e CSS;
 e como gerenciador de pacotes do NodeJS o npm.
 
 ## Sobre
-Esse foi um dos primeiros projetos que fiz em React.
-A intenção era experimentar as possibilidades de uma versão mais simples 
+
+Aplicação criada experimentando as possibilidades de uma versão mais simples 
 de uma rede social de compartilhamento de posts e comentarios. 
 Ele consiste em uma página que permite ao usuário escrever um texto que pode ser
 curtido, descurtido e comentado - esses comentários também podem ser avaliados. 
